@@ -1,8 +1,7 @@
 # Portfolio Website.
-###### https://vinaysomawat.github.io/
-###### https://vinaysomawat.surge.sh
+###### https://dhaval145.github.io/
 
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/web-dev/images/portfolio.png)
+![Image](https://github.com/dhaval145/dhaval145.github.io/blob/master/web-dev/images/portfolio.png)
 ### About me
 * Competitive Programming
 * Web Designing
@@ -31,11 +30,11 @@ To setup the project on your local machine:
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/vinaysomawat/vinaysomawat.github.io.git`
+3. `git clone https://github.com/dhaval145/dhaval145.github.io.git`
 
 To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+1. Choose any open issue from [here](https://github.com/dhaval145/dhaval145.github.io/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
